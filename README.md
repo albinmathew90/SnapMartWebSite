@@ -81,10 +81,10 @@ The project focuses on secure payment handling, prevention of double charges, an
 ## 📦 Key Dependencies
 
 
-Django: latest
-razorpay: latest
-psycopg2-binary: latest
-python-dotenv: latest
+1. Django: latest
+2. razorpay: latest
+3. psycopg2-binary: latest
+4. python-dotenv: latest
 
 
 ---
@@ -262,6 +262,7 @@ Contributions are welcome! Here's how you can help:
 ## 📜 License
 
 This project was built for academic/assignment purposes.
+
 
 
 
