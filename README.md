@@ -89,53 +89,50 @@ python-dotenv: latest
 
 ---
 
-## 📁 Project Structure
-
-
+📁 Project Structure
 .
 ├── SnapMart_Django
-│ ├── init.py
-│ ├── asgi.py
-│ ├── settings.py
-│ ├── urls.py
-│ └── wsgi.py
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
 ├── manage.py
 ├── orders
-│ ├── init.py
-│ ├── admin.py
-│ ├── apps.py
-│ ├── migrations
-│ │ ├── 0001_initial.py
-│ │ ├── 0002_order_products_order_status.py
-│ │ ├── 0003_alter_order_products.py
-│ │ ├── 0004_wishlist.py
-│ │ ├── 0005_alter_wishlist_user.py
-│ │ ├── 0006_delete_wishlist.py
-│ │ ├── 0007_alter_order_razorpay_payment_id.py
-│ │ └── init.py
-│ ├── models.py
-│ ├── services.py
-│ ├── static
-│ │ └── orders
-│ │ └── images
-│ │ ├── 16pro.jpg
-│ │ ├── Asus.jpg
-│ │ ├── Lenovotab.jpg
-│ │ ├── M4Ipad.jpg
-│ │ ├── MacProM4.jpg
-│ │ ├── Oneplus13.jpg
-│ │ ├── TabS10.jpg
-│ │ ├── Xps15.jpg
-│ │ └── s25.jpg
-│ ├── templates
-│ │ └── orders
-│ │ └── index.html
-│ ├── tests.py
-│ ├── urls.py
-│ ├── utils.py
-│ └── views.py
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   │   ├── 0001_initial.py
+│   │   ├── 0002_order_products_order_status.py
+│   │   ├── 0003_alter_order_products.py
+│   │   ├── 0004_wishlist.py
+│   │   ├── 0005_alter_wishlist_user.py
+│   │   ├── 0006_delete_wishlist.py
+│   │   ├── 0007_alter_order_razorpay_payment_id.py
+│   │   └── __init__.py
+│   ├── models.py
+│   ├── services.py
+│   ├── static
+│   │   └── orders
+│   │       └── images
+│   │           ├── 16pro.jpg
+│   │           ├── Asus.jpg
+│   │           ├── Lenovotab.jpg
+│   │           ├── M4Ipad.jpg
+│   │           ├── MacProM4.jpg
+│   │           ├── Oneplus13.jpg
+│   │           ├── TabS10.jpg
+│   │           ├── Xps15.jpg
+│   │           └── s25.jpg
+│   ├── templates
+│   │   └── orders
+│   │       └── index.html
+│   ├── tests.py
+│   ├── urls.py
+│   ├── utils.py
+│   └── views.py
 └── requirements.txt
-
 
 ---
 
@@ -265,5 +262,6 @@ Contributions are welcome! Here's how you can help:
 ## 📜 License
 
 This project was built for academic/assignment purposes.
+
 
 
