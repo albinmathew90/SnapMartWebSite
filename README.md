@@ -175,13 +175,13 @@ pip install -r requirements.txt
 Create a `.env` file in project root:
 
 
-RAZORPAY_KEY_ID=your_test_key
-RAZORPAY_KEY_SECRET=your_test_secret
-DB_NAME=your_database_name
-DB_USER=your_database_user
-DB_PASSWORD=your_database_password
-DB_HOST=localhost
-DB_PORT=5432
+- RAZORPAY_KEY_ID=your_test_key
+- RAZORPAY_KEY_SECRET=your_test_secret
+- DB_NAME=your_database_name
+- DB_USER=your_database_user
+- DB_PASSWORD=your_database_password
+- DB_HOST=localhost
+- DB_PORT=5432
 
 
 ⚠️ `.env` is excluded from GitHub for security.
@@ -262,6 +262,7 @@ Contributions are welcome! Here's how you can help:
 ## 📜 License
 
 This project was built for academic/assignment purposes.
+
 
 
 
