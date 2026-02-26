@@ -9,7 +9,7 @@
 
 ## 📝 Description
 
-SnapMartWebSite is a secure Django-powered e-commerce platform built as part of a 48-hour technical assignment.  
+SnapMartWebSite is a secure Django-powered e-commerce platform
 
 The application demonstrates complete payment flow integration using Razorpay (Test Mode) with secure backend verification and PostgreSQL database management.
 
@@ -26,7 +26,7 @@ The project focuses on secure payment handling, prevention of double charges, an
 
 ---
 
-## 🎯 Assignment Objectives Covered
+## 🎯 Objectives Covered
 
 - ✅ Django + PostgreSQL backend
 - ✅ Razorpay Test Mode integration
@@ -46,6 +46,8 @@ The project focuses on secure payment handling, prevention of double charges, an
 - 💳 Razorpay (Test Mode)
 - 🎨 HTML, CSS, JavaScript
 - 🔐 Server-side Payment Verification
+
+- Editor Used : Antigravity 
 
 ---
 
@@ -262,6 +264,7 @@ Contributions are welcome! Here's how you can help:
 ## 📜 License
 
 This project was built for academic/assignment purposes.
+
 
 
 
